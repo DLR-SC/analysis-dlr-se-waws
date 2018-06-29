@@ -1,0 +1,14 @@
+cff-version: 1.0.3
+message: If you use this work, please cite it using the following metadata.
+authors:
+  - family-names: Schlauch
+    given-names: Tobias
+    orcid: https://orcid.org/0000-0001-8760-8913
+  - family-names: Haupt
+    given-names: Carina
+    orcid: https://orcid.org/0000-0001-6447-1379
+title: Analysis of the DLR Knowledge Exchange Workshop Series on Software Engineering
+version: 1.0.0
+doi: 10.5281/zenodo.XYZ
+date-released: 2018-06-39
+repository-code: https://github.com/DLR-SC/analysis-dlr-se-waws
