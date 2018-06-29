@@ -35,6 +35,9 @@ The whole material including data sets and analysis code is licensed under the t
 
 ## Versions
 
+### 1.0.2 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301253.svg)](https://doi.org/10.5281/zenodo.1301253)
+- Final corrections for a clean Zenodo version
+
 ### 1.0.1 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301235.svg)](https://doi.org/10.5281/zenodo.1301235)
 - Corrected publication date in citation file
 
