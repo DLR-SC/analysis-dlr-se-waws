@@ -1,4 +1,5 @@
 [![reuse compliant](https://reuse.software/badge/reuse-compliant.svg)](https://reuse.software/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301033.svg)](https://doi.org/10.5281/zenodo.1301033)
 
 # Analysis of the DLR Knowledge Exchange Workshop Series on Software Engineering
 This repository is used to analyze the workshops of the DLR internal workshop series on software
@@ -33,6 +34,9 @@ The whole material including data sets and analysis code is licensed under the t
 [MIT License](LICENSE).
 
 ## Versions
+
+### 1.0.1 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301235.svg)](https://doi.org/10.5281/zenodo.1301235)
+- Corrected publication date in citation file
 
 ### 1.0.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301034.svg)](https://doi.org/10.5281/zenodo.1301034)
 - Initial version
