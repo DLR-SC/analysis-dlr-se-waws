@@ -34,7 +34,7 @@ The whole material including data sets and analysis code is licensed under the t
 
 ## Versions
 
-### 1.0.0 [![DOI 1301034](https://zenodo.org/badge/DOI/10.5281/zenodo.1301034.svg)](https://zenodo.org/record/1301034)
+### 1.0.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301034.svg)](https://doi.org/10.5281/zenodo.1301034)
 - Initial version
 - Overview of workshop and participant data from five workshops performed between 2014 and 2018
 - Basic analysis of participant attendance behavior
