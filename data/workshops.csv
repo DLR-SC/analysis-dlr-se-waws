@@ -1,6 +1,6 @@
-id,topic,date,location,num_participants
-0,kick-off,November 2014,Braunschweig,57
-1,tools and processes,April 2015,Cologne,56
-2,open and inner Source,April 2016,Oberpfaffenhofen,53
-3,software architecture,April 2017,Berlin,52
-4,embedded systems,May 2018,Bremen,47
+id,topic,num_participants,date,location,num_employees_at_workshop_location
+0,kick-off,57,November 2014,Braunschweig,1140
+1,tools and processes,56,April 2015,Cologne,1581
+2,open and inner Source,53,April 2016,Oberpfaffenhofen,1692
+3,software architecture,52,April 2017,Berlin,649
+4,embedded systems,47,May 2018,Bremen,183
