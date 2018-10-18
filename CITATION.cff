@@ -8,7 +8,7 @@ authors:
     given-names: Carina
     orcid: https://orcid.org/0000-0001-6447-1379
 title: Analysis of the DLR Knowledge Exchange Workshop Series on Software Engineering
-version: 1.0.2
-doi: 10.5281/zenodo.1301253
-date-released: 2018-06-29
+version: 1.1.0
+doi: 10.5281/zenodo.1465775
+date-released: 2018-10-18
 repository-code: https://github.com/DLR-SC/analysis-dlr-se-waws
