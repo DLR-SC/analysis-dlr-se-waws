@@ -1,4 +1,3 @@
-[![reuse compliant](https://reuse.software/badge/reuse-compliant.svg)](https://reuse.software/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301033.svg)](https://doi.org/10.5281/zenodo.1301033)
 
 # Analysis of the DLR Knowledge Exchange Workshop Series on Software Engineering
@@ -26,25 +25,9 @@ and [matplotlib](https://matplotlib.org) (Matplotlib License).
 - Your browser should start and you can select the analysis notebook.
 
 ## Citation
-If you use this work, please cite it using the metadata provided in the [CITATION file](CITATION.cff).
-For more information on the format, please see [Citation File Format (CFF)](https://citation-file-format.github.io/).
+If you use this work, please cite the specific version using its DOI and the metadata provided in the
+[CITATION file](CITATION.cff). For more information on the format, please see [Citation File Format (CFF)](https://citation-file-format.github.io/).
 
 ## License
 The whole material including data sets and analysis code is licensed under the terms of the
 [MIT License](LICENSE).
-
-## Versions
-
-### 1.1.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1465775.svg)](https://doi.org/10.5281/zenodo.1465775)
-- Add data sets and analysis concerning the work location of the participants
-
-### 1.0.2 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301253.svg)](https://doi.org/10.5281/zenodo.1301253)
-- Final corrections for a clean Zenodo version
-
-### 1.0.1 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301235.svg)](https://doi.org/10.5281/zenodo.1301235)
-- Corrected publication date in citation file
-
-### 1.0.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301034.svg)](https://doi.org/10.5281/zenodo.1301034)
-- Initial version
-- Overview of workshop and participant data from five workshops performed between 2014 and 2018
-- Basic analysis of participant attendance behavior
