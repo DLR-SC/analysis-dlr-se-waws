@@ -20,6 +20,10 @@ and [matplotlib](https://matplotlib.org) (Matplotlib License).
     - `env\Scripts\activate.bat`
     - `pip install -r requirements.txt`
 
+> Currently, there is a bug when activating a virtual environment on Windows operating 
+> systems. Please adapt your env\Scripts\activate.bat as suggested in the bug report
+> until the problem is fixed.
+
 ### Run the Jupyter notebook
 - Start Jupyter: `jupyter notebook`
 - Your browser should start and you can select the analysis notebook.
