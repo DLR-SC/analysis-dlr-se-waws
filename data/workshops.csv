@@ -4,3 +4,4 @@ id,topic,num_participants,date,location,num_employees_at_workshop_location
 2,open and inner Source,53,April 2016,Oberpfaffenhofen,1692
 3,software architecture,52,April 2017,Berlin,649
 4,embedded systems,47,May 2018,Bremen,183
+5,software engineering for data science,55,May 2019,Jena,50

@@ -8,7 +8,7 @@ id,location,one_time_participant
 6,BS,False
 7,BA,True
 8,BS,False
-9,KP,True
+9,KP,False
 10,BA,False
 11,BS,False
 12,OP,False
@@ -48,7 +48,7 @@ id,location,one_time_participant
 46,NZ,True
 47,BA,True
 48,KP,False
-49,NZ,True
+49,NZ,False
 50,KP,True
 51,KP,True
 52,KP,True
