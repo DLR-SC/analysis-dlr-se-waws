@@ -6,22 +6,22 @@ engineering. These workshops are two-day events of the DLR software engineering 
 focus on different main topics every year. The [Juypter notebook](analysis.ipynb) gives an overview
 about the basic workshop data and insights into the participant attendance behavior.
 
-The analysis has been performed on Windows 7 using Python 3.5.4 and Jupyter notebook.
-The analysis code makes use of the libraries [pandas](https://pandas.pydata.org) (BSD 3-Clause License)
-and [matplotlib](https://matplotlib.org) (Matplotlib License). 
+The analysis has been performed on Windows 7 using Python 3 and Jupyter notebook.
+The analysis code makes use of the libraries [pandas](https://pandas.pydata.org) (BSD 3-Clause License),
+[matplotlib](https://matplotlib.org) (Matplotlib License) and [seaborn](https://seaborn.pydata.org/) (BSD 3-Clause License). 
 
 ## Using this Jupyter notebook
 
 ### Preparation
-- Install Jupyter: https://jupyter.readthedocs.io/en/latest/install.html
-- We used Python 3.5.4 on Windows 7. The dependencies are captured in the [requirements.txt](requirements.txt)
-  file which we installed in a Python virtual environment as follows:
-    - `python -m venv env`
-    - `env\Scripts\activate.bat`
-    - `pip install -r requirements.txt`
+We used Python 3.7.3 on Windows 7. The dependencies are captured in the [requirements.txt](requirements.txt)
+file which we installed in a Python virtual environment as follows:
+  - `python -m venv env`
+  - `env\Scripts\activate.bat`
+  - `pip install -r requirements.txt`
 
-> Currently, there is a bug when activating a virtual environment on Windows operating 
-> systems. Please adapt your env\Scripts\activate.bat as suggested in the bug report
+> Currently, there is a bug when activating a virtual environment on Windows operating
+> systems using German localization. Please adapt your `env\Scripts\activate.bat` as
+> suggested in the [bug report](https://bugs.python.org/issue34144)
 > until the problem is fixed.
 
 ### Run the Jupyter notebook
