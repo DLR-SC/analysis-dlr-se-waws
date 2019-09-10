@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.2.0 (TBD)
+## 1.2.0 (2019-09-10)
 - Added data about the sixth knowledge exchange workshop:
   - The new data set triggered also changes in participant data and
     location data as some participants switched from "one-time participants"
